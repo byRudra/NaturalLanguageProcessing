@@ -1,0 +1,17 @@
+The Evolution of Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of Artificial Intelligence that teaches computers to read, understand and generate human language. In the 1950s, researchers believed that translating Russian into English would be solved within a few years. That prediction was carelessly optimistic, and the early systems misunderstood even simple sentences. The disappointment led to a long period of reduced funding, often called the "AI winter".
+
+During the 1980s and 1990s, scientists started rethinking the problem. Instead of writing thousands of hand-crafted rules, they trained statistical models on large collections of text. These models counted how often words appeared together and used probabilities to make better decisions. Computational power was growing quickly, and the newer machines were faster and cheaper than the older ones.
+
+Today, NLP is everywhere!!! Search engines rank billions of pages, email services filter spam, and voice assistants answer questions in seconds. Modern language models have studied enormous amounts of text from books, websites and conversations. They are trained on more than 500 billion words, and some of them contain over 100 billion parameters. Many organizations now use these systems to summarize documents, translate languages and analyse customer feedback.
+
+However, building reliable language technology is still difficult. Human language is full of ambiguity: the word "bank" can mean the side of a river or a financial institution. Sarcasm, idioms and spelling mistakes make the task even harder. A sentence that seems meaningful to a person may be confusing to a machine. Teachers and linguists remind us that children learn language through experience, while computers learn only from the data we give them.
+
+Before any analysis can begin, the raw text must be cleaned. This preprocessing stage usually includes lowercasing, removing punctuation, splitting the text into tokens, deleting common stop words, and reducing every word to its base form. For example, the words "running", "ran" and "runs" all come from the verb "run", and "studies", "studied" and "studying" all come from "study". Without this step, a program would treat each form as a completely different word.
+
+There is also growing disagreement about fairness. Some researchers argue that models trained on internet data repeat the unhappiness, bias and unfairness found online. Others believe that careful design makes these problems manageable rather than impossible. Most experts agree that the best systems are the ones that are tested thoroughly, explained clearly and used responsibly.
+
+The progress of NLP over the last seventy years has been unbelievable. What once seemed like science fiction is now part of everyday life. As the field keeps evolving, the happiest outcome would be technology that helps people communicate more easily, across every language in the world.
+
+For more information, visit https://www.example.org/nlp-history or write to info@example.org.
